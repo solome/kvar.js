@@ -1,0 +1,18 @@
+# User-specific stuff:
+/target/
+.idea/
+.DS_Store
+.vscode/*
+*.iml
+*.swp
+.classpath
+.factorypath
+.project
+/.settings/
+/target/
+/node_modules/
+_bundles/*
+_webroot/*
+__deps__.json
+dist/
+docs/
