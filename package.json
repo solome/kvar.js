@@ -16,7 +16,7 @@
     "jest": "^24.8.0",
     "jest-puppeteer": "^4.3.0",
     "puppeteer": "^1.18.1",
-    "three": "^0.107.0",
+    "three": "^0.125.0",
     "ts-jest": "^24.0.2",
     "ts-loader": "^6.0.4",
     "tslint": "^5.18.0",
