@@ -8,29 +8,19 @@
     "tslint": "./node_modules/.bin/tslint -c tslint.json 'src/**/*.ts'"
   },
   "devDependencies": {
-    "@types/expect-puppeteer": "^3.3.1",
-    "@types/jest": "^24.0.15",
-    "@types/jest-environment-puppeteer": "^4.0.0",
-    "@types/puppeteer": "^1.12.4",
-    "@types/webgl2": "^0.0.5",
-    "jest": "^24.8.0",
-    "jest-puppeteer": "^4.3.0",
-    "puppeteer": "^1.18.1",
-    "three": "^0.107.0",
-    "ts-jest": "^24.0.2",
-    "ts-loader": "^6.0.4",
-    "tslint": "^5.18.0",
-    "typescript": "^3.5.3",
-    "webpack": "^4.35.3"
+    "@types/webgl2": "^0.0.6",
+    "ts-loader": "^9.2.3",
+    "typescript": "^4.3.5",
+    "webpack": "^5.42.0"
   },
   "dependencies": {},
   "peerDependencies": {
-    "@tweenjs/tween.js": "^17.4.0",
+    "@tweenjs/tween.js": "^18.6.4",
     "hammerjs": "^2.0.8",
-    "protobufjs": "^6.8.8",
-    "three": "^0.106.2"
+    "protobufjs": "^6.11.2",
+    "three": "^0.130.0"
   },
   "description": "Three.js + 2 = Kvin.js",
   "repository": "git@github.com:solome/kvin.js.git",
-  "author": "solome <iliyang.cn@gmail.com>"
+  "author": "solome <solome@outlook.com>"
 }
